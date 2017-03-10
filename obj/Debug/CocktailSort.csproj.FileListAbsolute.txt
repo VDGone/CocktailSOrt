@@ -1,0 +1,6 @@
+F:\Projects\CocktailSort\CocktailSort\bin\Debug\CocktailSort.exe.config
+F:\Projects\CocktailSort\CocktailSort\bin\Debug\CocktailSort.exe
+F:\Projects\CocktailSort\CocktailSort\bin\Debug\CocktailSort.pdb
+F:\Projects\CocktailSort\CocktailSort\obj\Debug\CocktailSort.csprojResolveAssemblyReference.cache
+F:\Projects\CocktailSort\CocktailSort\obj\Debug\CocktailSort.exe
+F:\Projects\CocktailSort\CocktailSort\obj\Debug\CocktailSort.pdb
